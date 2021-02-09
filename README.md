@@ -1,2 +1,2 @@
 # Excel
-Showcasing all my excel files.
+These are some of the homework/project that I done over my school course. In excel, I learn how to use vba programming to create a userform for people to input data. There's an add/delete and cancel option. Along with that, I learned formula such as vlookup, countif, average, conditinal formatting, hiding duplicates, highlight and creating database. For my project, I talked about Earthquake and use trends and forecast to predict future earthquake occurances and magnitude. I uploaded a powerpoint with screenshots of the programming within to show my ability to visualized data and tell a story.
